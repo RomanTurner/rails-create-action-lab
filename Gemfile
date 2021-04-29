@@ -25,6 +25,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 
 group :development, :test do
+  gem 'awesome_print'
   gem 'byebug'
   gem 'spring'
   gem 'rspec-rails'
